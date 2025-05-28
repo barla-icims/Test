@@ -1,3 +1,3 @@
 SELECT *
 FROM EMPLOYEES
-WHERE  EMP_ID = 100
+WHERE  EMP_ID = 100 AND emp_name = 'Bhargav'
